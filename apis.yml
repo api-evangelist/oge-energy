@@ -17,6 +17,10 @@ description: >-
   electric utility serving customers in Oklahoma and western Arkansas.
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/ogeenergycorp
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/oge-energy-corp
   - type: Website
     url: https://www.oge-energy.com
   - type: Investors
