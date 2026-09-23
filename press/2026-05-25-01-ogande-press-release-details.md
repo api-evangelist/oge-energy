@@ -1,7 +1,9 @@
 ---
 title: OG&E - Press Release Details
 url: https://www.oge.com/web/portal/-/144-press-release
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"OGE Energy" press release artificial intelligence'
 position: 1
 source: serpapi-google

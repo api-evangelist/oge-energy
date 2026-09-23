@@ -1,7 +1,9 @@
 ---
 title: SEC Filing | OGE Energy Corporation
 url: https://ogeenergy.gcs-web.com/node/45196/html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"OGE Energy" press release artificial intelligence'
 position: 5
 source: serpapi-google

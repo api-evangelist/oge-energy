@@ -1,7 +1,9 @@
 ---
 title: OGE Energy Corp. reports second quarter 2025 results
 url: https://www.oge.com/web/portal/-/164-press-release
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"OGE Energy" press release artificial intelligence'
 position: 2
 source: serpapi-google

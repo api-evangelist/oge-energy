@@ -1,7 +1,9 @@
 ---
 title: Oklahoma Gas & Electric Company uses AI to assess and ...
 url: https://www.esmartsystems.com/news-and-resources/oklahoma-gas-electric-company-uses-ai-to-assess-and-repair-distribution-pole-damage/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"OGE Energy" press release artificial intelligence'
 position: 4
 source: serpapi-google
